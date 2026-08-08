@@ -1,11 +1,15 @@
 # Python
 backend/venv/
-backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
 *.pyc
 
 # Environment variables
 .env
 backend/.env
+
+# Uploaded files
+backend/uploads/
 
 # Node
 frontend/node_modules/
